@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title> Profile Name </title>
+  </head>
+  
+  <body>
+  </div>
+<h1 align="center">CURICULUM VITTAE</h1>
+  
+  <br />
+  <img ALLIGN ="center" src="https://i0.wp.com/daftarhewan.com/wp-content/uploads/2020/06/gambar-hewan-langka-di-indonesia-dan-asalnya.jpg?resize=600%2C403&ssl=1">
+
+<h1 id="1">PROFIL</h1>
+<table align="center">
+<tr>
+<td width="1%">Nama</td>
+<td width="10%">: Mohammad Nouval Bachrezi</td>
+</tr>
+<tr>
+<td >Tempat Lahir</td>
+<td >: Jombang</td>
+</tr>
+<tr>
+<td >Umur</td>
+<td >: 21 Tahun</td>
+</tr>
+<tr>
+<td >Alamat</td>
+<td >: Jombang</td>
+</tr>
+</table>
+<h2 id="2">PENDIDIKAN</h2>
+<table align="center">
+<tr>
+<td width="1%">Universitas</td>
+<td width="10%">: Institut Teknologi Sepuluh Nopember</td>
+</tr>
+<tr>
+<td >Jurusan</td>
+<td >: Teknik Informatika</td>
+</tr>
+<tr>
+<td >IPK</td>
+<td >: 3,03</td>
+</tr>
+</table>
+<h2 id="3">KEAHLIAN</h2>
+<table align="center">
+<tr>
+<body>
+  </div>
+<h1 align="center">NONE</h1>
+<tr>
+
+
+</table>
+<h2 id="4">PENGALAMAN</h2>
+<table align="center">
+<body>
+  </div>
+<h1 align="center">NONE</h1>
+</table>
+<h2 id="5">KONTAK</h2>
+<table align="center">
+<tr>
+<td width="1%">Linkedin</td>
+<td width="10%">: https://www.linkedin.com/in/nouval-bachrezi-061a52220/?originalSubdomain=id</td>
+</tr>
+<tr>
+<td >Instagram</td>
+<td >: nouval bachrezi</td>
+</tr>
+<tr>
+<td >Github</td>
+<td >: nouvalbachrezi</td>
+</tr>
+</table>
+
+</body> </html>
+
+
+
